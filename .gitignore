@@ -7,6 +7,8 @@
 # ignore specific themes except twentytwentyfour
 /themes/twenty*/
 !/themes/twentytwentyfour/
+!/themes/twentytwentyfour-child/
+
 
 # ignore node dependency directories
 node_modules/

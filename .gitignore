@@ -1,11 +1,9 @@
 # ignore everything in the "wp-content" directory, except:
-# "mu-plugins", "plugins", "themes" directory
+# "plugins", directory
 /*
 !/plugins/
-!/themes/
 
-# ignore specific themes except twentytwentyfour
-/themes/twenty*/
+# remove twentytwentyfour and twentytwentyfour-child from ignored files
 !/themes/twentytwentyfour/
 !/themes/twentytwentyfour-child/
 

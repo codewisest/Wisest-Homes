@@ -2,11 +2,7 @@
 # "plugins", directory
 /*
 !/plugins/
-
-# remove twentytwentyfour and twentytwentyfour-child from ignored files
-!/themes/twentytwentyfour/
-!/themes/twentytwentyfour-child/
-
+!/themes/
 
 # ignore node dependency directories
 node_modules/
